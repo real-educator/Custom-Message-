@@ -29,7 +29,7 @@ logger = logging.getLogger(__name__)
 # ============================
 # CONFIG
 # ============================
-BOT_TOKEN = "9187057780:AAFR8uGKTvvOAkRVcM3VsulfKtN9q-nRX9U"
+TOKEN = "9187057780:AAFR8uGKTvvOAkRVcM3VsulfKtN9q-nRX9U"
 OWNER_ID = 7513729138
 
 FIREBASE_URLS = [
